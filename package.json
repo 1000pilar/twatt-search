@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/1000pilar/twatt-search#readme",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "dotenv": "^4.0.0",
     "express": "^4.15.3",
     "oauth": "^0.9.15"
