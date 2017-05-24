@@ -1,0 +1,24 @@
+{
+  "name": "twatt-search",
+  "version": "1.0.0",
+  "description": "twatt-search-pilar",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/1000pilar/twatt-search.git"
+  },
+  "author": "nugraha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/1000pilar/twatt-search/issues"
+  },
+  "homepage": "https://github.com/1000pilar/twatt-search#readme",
+  "dependencies": {
+    "express": "^4.15.3",
+    "oauth": "^0.9.15"
+  }
+}
